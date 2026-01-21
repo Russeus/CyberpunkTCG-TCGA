@@ -1,0 +1,529 @@
+{
+  "a001": {
+    "id": "a001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yorinobu Arasaka - Embracing Destruction",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/m4VpZtnP/a001.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yorinobu Arasaka - Embracing Destruction",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟥 Red"
+  },
+  "a002": {
+    "id": "a002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jackie Welles - Pour One Out for Me",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/74XtPfRf/a002.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jackie Welles - Pour One Out for Me",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟦 Blue"
+  },
+  "a003": {
+    "id": "a003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V - Corporate Exile",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/6Kzb6yPq/a003.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "V - Corporate Exile",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟦 Blue"
+  },
+  "a004": {
+    "id": "a030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goro Takemura - Hands Unclean",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/51RPvD1G/a030.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goro Takemura - Hands Unclean",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟩 Green"
+  },
+  "a005": {
+    "id": "a005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saburo Arasaka - Stubborn Patriarch",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/mRDXPTx2/a005.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saburo Arasaka - Stubborn Patriarch",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟩 Green"
+  },
+  "a006": {
+    "id": "a006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Viktor Vektor - Sit Down and Relax",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/9VM8Dc3Q/a006.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Viktor Vektor - Sit Down and Relax",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟨 Yellow"
+  },
+  "a007": {
+    "id": "a007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armo🟥 Red Minotaur",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://i.postimg.cc/LRXCJmdX/a007.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armo🟥 Red Minotaur",
+    "type": "Unit",
+    "cost": "6",
+    "RAM Color": "🟥 Red"
+  },
+  "a008": {
+    "id": "a008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ruthless Lowlife",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Phx3CdGN/a008.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ruthless Lowlife",
+    "type": false,
+    "cost": "2",
+    "RAM Color": "🟥 Red"
+  },
+  "a009": {
+    "id": "a009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Swordwise Huscle",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.postimg.cc/b8JCZqXD/a009.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Swordwise Huscle",
+    "type": "Unit",
+    "cost": "3",
+    "RAM Color": "🟥 Red"
+  },
+  "a010": {
+    "id": "a010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Delamain Cab",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.postimg.cc/CY1PRwy8/a010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delamain Cab",
+    "type": "Unit",
+    "cost": "4",
+    "RAM Color": "🟦 Blue"
+  },
+  "a011": {
+    "id": "a011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Evelyn Parker - Scheming Siren",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/Yk9nvtcg/a011.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Evelyn Parker - Scheming Siren",
+    "type": "Unit",
+    "cost": "2",
+    "RAM Color": "🟦 Blue"
+  },
+  "a012": {
+    "id": "a012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MT0D12 Flathead",
+        "type": "Unit",
+        "cost": "5",
+        "image": "https://i.postimg.cc/5107Xfcw/a012.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "MT0D12 Flathead",
+    "type": "Unit",
+    "cost": "5",
+    "RAM Color": "🟦 Blue"
+  },
+  "a013": {
+    "id": "a013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jackie Welles - Ride or Die Choom",
+        "type": "Unit",
+        "cost": "6",
+        "image": "https://i.postimg.cc/yBdQD7qT/a013.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jackie Welles - Ride or Die Choom",
+    "type": "Unit",
+    "cost": "6",
+    "RAM Color": "🟨 Yellow"
+  },
+  "a014": {
+    "id": "a014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Secondhand Bombus",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/k94127rw/a014.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Secondhand Bombus",
+    "type": "Unit",
+    "cost": "2",
+    "RAM Color": "🟨 Yellow"
+  },
+  "a015": {
+    "id": "a015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T-Bug - Amateur Philosopher",
+        "type": "Unit",
+        "cost": "3",
+        "image": "https://i.postimg.cc/Qst4FjLf/a015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "T-Bug - Amateur Philosopher",
+    "type": "Unit",
+    "cost": "3",
+    "RAM Color": "🟨 Yellow"
+  },
+  "a016": {
+    "id": "a016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corpo Security",
+        "type": "Unit",
+        "cost": "2",
+        "image": "https://i.postimg.cc/KFzq1mX9/a016.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corpo Security",
+    "type": "Unit",
+    "cost": "2",
+    "RAM Color": "🟩 Green"
+  },
+  "a017": {
+    "id": "a017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emergency Atlus",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.postimg.cc/FmRWYhtC/a017.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emergency Atlus",
+    "type": "Unit",
+    "cost": "4",
+    "RAM Color": "🟩 Green"
+  },
+  "a018": {
+    "id": "a018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goro Takemura - Losing His Way",
+        "type": "Unit",
+        "cost": "4",
+        "image": "https://i.postimg.cc/q0RbNpfZ/a018.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goro Takemura - Losing His Way",
+    "type": "Unit",
+    "cost": "4",
+    "RAM Color": "🟩 Green"
+  },
+  "a019": {
+    "id": "a019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mantis Blades",
+        "type": "Gear",
+        "cost": "1",
+        "image": "https://i.postimg.cc/8D5K7T80/a019.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mantis Blades",
+    "type": "Gear",
+    "cost": "1",
+    "RAM Color": "🟥 Red"
+  },
+  "a020": {
+    "id": "a020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Satori - Sword of Saburo",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://i.postimg.cc/0xBtmhxG/a020.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Satori - Sword of Saburo",
+    "type": "Gear",
+    "cost": "2",
+    "RAM Color": "🟥 Red"
+  },
+  "a021": {
+    "id": "a021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Industrial Assembly",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://i.postimg.cc/q05mnW0L/a021.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Industrial Assembly",
+    "type": "Program",
+    "cost": "2",
+    "RAM Color": "🟥 Red"
+  },
+  "a022": {
+    "id": "a022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dying Night - V's Pistol",
+        "type": "Gear",
+        "cost": "2",
+        "image": "https://i.postimg.cc/MxFsRgx5/a022.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dying Night - V's Pistol",
+    "type": "Gear",
+    "cost": "2",
+    "RAM Color": "🟦 Blue"
+  },
+  "a023": {
+    "id": "a023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Floor It",
+        "type": "Program",
+        "cost": "3",
+        "image": "https://i.postimg.cc/vMNP9CMX/a023.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Floor It",
+    "type": "Program",
+    "cost": "3",
+    "RAM Color": "🟦 Blue"
+  },
+  "a024": {
+    "id": "a024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sandevistan",
+        "type": "Gear",
+        "cost": "3",
+        "image": "https://i.postimg.cc/LRbyfGRN/a024.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sandevistan",
+    "type": "Gear",
+    "cost": "3",
+    "RAM Color": "🟩 Green"
+  },
+  "a025": {
+    "id": "a025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Corporate Surveillance",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://i.postimg.cc/jKF8NBK8/a025.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Corporate Surveillance",
+    "type": "Program",
+    "cost": "2",
+    "RAM Color": "🟩 Green"
+  },
+  "a026": {
+    "id": "a026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kiroshi Optics",
+        "type": "Gear",
+        "cost": "1",
+        "image": "https://i.postimg.cc/LRbyfGRC/a026.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kiroshi Optics",
+    "type": "Gear",
+    "cost": "1",
+    "RAM Color": "🟨 Yellow"
+  },
+  "a027": {
+    "id": "a027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mandibular Upgrade",
+        "type": "Gear",
+        "cost": "1",
+        "image": "https://i.postimg.cc/HHhS5FHP/a027.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mandibular Upgrade",
+    "type": "Gear",
+    "cost": "1",
+    "RAM Color": "🟨 Yellow"
+  },
+  "a028": {
+    "id": "a028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Reboot Optics",
+        "type": "Program",
+        "cost": "2",
+        "image": "https://i.postimg.cc/X3z2Ft31/a028.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reboot Optics",
+    "type": "Program",
+    "cost": "2",
+    "RAM Color": "🟨 Yellow"
+  },
+  "a029": {
+    "id": "a005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saburo Arasaka - Stubborn Patriarch",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/mR5dMKR5/a029.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saburo Arasaka - Stubborn Patriarch",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟩 Green"
+  },
+  "a031": {
+    "id": "a001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yorinobu Arasaka - Embracing Destruction",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/k9pj8L9L/a031.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yorinobu Arasaka - Embracing Destruction",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟥 Red"
+  },
+  "N001": {
+    "id": "a001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lucyna Kushinada - Fresh Beginnings",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/ZZMf3X4k/n001.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lucyna Kushinada - Fresh Beginnings",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟦 Blue"
+  }
+}
