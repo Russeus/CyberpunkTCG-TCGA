@@ -54,7 +54,9 @@
         "customSections": [
           "Field",
           "Legend",
-          "Eddies"
+          "Eddies",
+          "Gigs_1",
+          "Gigs_2"
         ],
         "layout": {
           "direction": "column",
@@ -65,7 +67,7 @@
               "style": false,
               "content": [
                 {
-                  "section": "Gigs 1",
+                  "section": "Gigs_1",
                   "width": "10%",
                   "style": {
                     "width": "25%"
@@ -79,7 +81,7 @@
                   }
                 },
                 {
-                  "section": "Gigs 2",
+                  "section": "Gigs_2",
                   "width": "10%",
                   "style": {
                     "width": "25%"
@@ -165,8 +167,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Gigs 1": {
-            "title": "Gigs 1",
+          "Gigs_1": {
+            "title": "Gigs_1",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -181,8 +183,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Gigs 2": {
-            "title": "Gigs 2",
+          "Gigs_2": {
+            "title": "Gigs_2",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
