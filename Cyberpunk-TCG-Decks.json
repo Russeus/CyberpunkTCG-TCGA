@@ -1,0 +1,86 @@
+[
+{
+  "title": "Alpha 1 (Blue/Yellow)",
+  "id": "65d73c9b-02ea-4d12-bc4f-6ab03470004d",
+  "game": "Cyberpunk TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 36,
+  "createdAt": "2026-01-22T00:27:51.070Z",
+  "lastModifiedAt": "2026-01-22T00:31:25.396Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Unit",
+      "Gear",
+      "Program"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "a002"
+      },
+      {
+        "count": 1,
+        "id": "a003"
+      },
+      {
+        "count": 1,
+        "id": "a006"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "a010"
+      },
+      {
+        "count": 3,
+        "id": "a011"
+      },
+      {
+        "count": 3,
+        "id": "a012"
+      },
+      {
+        "count": 3,
+        "id": "a013"
+      },
+      {
+        "count": 3,
+        "id": "a014"
+      },
+      {
+        "count": 3,
+        "id": "a015"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "a022"
+      },
+      {
+        "count": 3,
+        "id": "a026"
+      },
+      {
+        "count": 3,
+        "id": "a027"
+      }
+    ],
+    "Program": [
+      {
+        "count": 3,
+        "id": "a023"
+      },
+      {
+        "count": 3,
+        "id": "a028"
+      }
+    ]
+  }
+}
+]
