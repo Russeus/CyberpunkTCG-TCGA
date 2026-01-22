@@ -61,12 +61,29 @@
           "isSymetricalForOpponents": false,
           "content": [
             {
-              "direction": "column",
+              "direction": "row",
               "style": false,
               "content": [
                 {
+                  "section": "Gigs 1",
+                  "width": "10%",
+                  "style": {
+                    "width": "25%"
+                  }
+                },
+                {
                   "section": "Field",
-                  "style": false
+                  "width": "80%",
+                  "style": {
+                    "width": "50%"
+                  }
+                },
+                {
+                  "section": "Gigs 2",
+                  "width": "10%",
+                  "style": {
+                    "width": "25%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -77,11 +94,17 @@
               "content": [
                 {
                   "section": "Legend",
-                  "style": false
+                  "width": "50%",
+                  "style": {
+                    "width": "50%"
+                  }
                 },
                 {
                   "section": "Eddies",
-                  "style": false
+                  "width": "50%",
+                  "style": {
+                    "width": "50%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -135,6 +158,38 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Gigs 1": {
+            "title": "Gigs 1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Rival Gigs",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Gigs 2": {
+            "title": "Gigs 2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Friendly Gigs",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
