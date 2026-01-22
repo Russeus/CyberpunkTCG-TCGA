@@ -170,7 +170,7 @@
           "Gigs_1": {
             "title": "Gigs_1",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -186,7 +186,7 @@
           "Gigs_2": {
             "title": "Gigs_2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
