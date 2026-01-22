@@ -99,7 +99,7 @@
                   "width": "50%",
                   "style": {
                     "width": "25%",
-                    "justifyContent": "end"
+                    "marginLeft": "25%"
                   }
                 },
                 {
