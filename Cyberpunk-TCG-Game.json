@@ -9,7 +9,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Cards.json",
-    "cardBack": "https://i.postimg.cc/NMZyFHJM/CPTCG-card-Back.png"
+    "cardBack": "https://i.postimg.cc/NMZyFHJM/CPTCG-card-Back.png",
+    "extraCardBacks": {
+        "Legend": "https://i.postimg.cc/7ZPQmG94/CPTCG-Card-Back-Legend.png"
+      }
   },
   "deckBuilding": {
     "mainFilters": [],
@@ -41,7 +44,7 @@
       "countersStartingValues": [
         0
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Field",
@@ -104,7 +107,7 @@
           },
           "Legend": {
             "title": "Legend",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "END",
             "opponentAlignment": false,
@@ -120,7 +123,7 @@
           },
           "Eddies": {
             "title": "Eddies",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
