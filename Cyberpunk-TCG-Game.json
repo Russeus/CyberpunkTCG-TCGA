@@ -133,7 +133,8 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "reverseZOrder": true
           },
           "Legend": {
             "title": "Legend",
@@ -181,7 +182,8 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "reverseZOrder": true
           },
           "Gigs_2": {
             "title": "Gigs_2",
@@ -197,7 +199,8 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "reverseZOrder": true
           }
         }
       }
