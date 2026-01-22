@@ -34,7 +34,7 @@
       "mulligan": {
         "info": "If you want, you can shuffle your hand back into your deck and draw 6 new cards, but only once.",
         "startingHandSize": "6",
-        "drawNewHand": true,
+        "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
@@ -97,6 +97,7 @@
                 {
                   "section": "Legend",
                   "width": "50%",
+                  "justifyContent": "end",
                   "style": {
                     "width": "25%"
                   }
