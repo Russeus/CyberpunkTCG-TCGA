@@ -106,14 +106,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Armo🟥 Red Minotaur",
+        "name": "Armored Minotaur",
         "type": "Unit",
         "cost": "6",
         "image": "https://i.postimg.cc/LRXCJmdX/a007.webp",
         "isHorizontal": false
       }
     },
-    "name": "Armo🟥 Red Minotaur",
+    "name": "Armored Minotaur",
     "type": "Unit",
     "cost": "6",
     "RAM Color": "🟥 Red"

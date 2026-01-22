@@ -15,7 +15,12 @@
       }
   },
   "deckBuilding": {
-    "mainFilters": [],
+    "mainFilters": [
+      "type",
+      "cost",
+      "name",
+      "RAM Color"
+    ],
     "formats": [
       {
         "title": "Classic",
