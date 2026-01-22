@@ -476,7 +476,7 @@
     "RAM Color": "🟨 Yellow"
   },
   "a029": {
-    "id": "a005",
+    "id": "a029",
     "isToken": false,
     "face": {
       "front": {
@@ -493,7 +493,7 @@
     "RAM Color": "🟩 Green"
   },
   "a031": {
-    "id": "a001",
+    "id": "a031",
     "isToken": false,
     "face": {
       "front": {
@@ -510,7 +510,7 @@
     "RAM Color": "🟥 Red"
   },
   "N001": {
-    "id": "a001",
+    "id": "N001",
     "isToken": false,
     "face": {
       "front": {
