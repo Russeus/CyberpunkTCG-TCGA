@@ -131,7 +131,7 @@
       }
     },
     "name": "Ruthless Lowlife",
-    "type": false,
+    "type": "Unit",
     "cost": "2",
     "RAM Color": "🟥 Red"
   },
