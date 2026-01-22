@@ -82,5 +82,89 @@
       }
     ]
   }
+},
+{
+  "title": "Alpha 2 (Red/Green)",
+  "id": "c4ed2364-c4ab-4d19-bc66-e429bdc621f0",
+  "game": "Cyberpunk TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 36,
+  "createdAt": "2026-01-22T01:04:47.483Z",
+  "lastModifiedAt": "2026-01-22T01:05:22.793Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Legend",
+      "Unit",
+      "Gear",
+      "Program"
+    ],
+    "Sideboard": [],
+    "Legend": [
+      {
+        "count": 1,
+        "id": "a001"
+      },
+      {
+        "count": 1,
+        "id": "a004"
+      },
+      {
+        "count": 1,
+        "id": "a005"
+      }
+    ],
+    "Unit": [
+      {
+        "count": 3,
+        "id": "a007"
+      },
+      {
+        "count": 3,
+        "id": "a008"
+      },
+      {
+        "count": 3,
+        "id": "a009"
+      },
+      {
+        "count": 3,
+        "id": "a016"
+      },
+      {
+        "count": 3,
+        "id": "a017"
+      },
+      {
+        "count": 3,
+        "id": "a018"
+      }
+    ],
+    "Gear": [
+      {
+        "count": 3,
+        "id": "a019"
+      },
+      {
+        "count": 3,
+        "id": "a020"
+      },
+      {
+        "count": 3,
+        "id": "a024"
+      }
+    ],
+    "Program": [
+      {
+        "count": 3,
+        "id": "a021"
+      },
+      {
+        "count": 3,
+        "id": "a025"
+      }
+    ]
+  }
 }
 ]
