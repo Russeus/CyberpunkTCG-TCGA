@@ -51,7 +51,7 @@
     "RAM Color": "🟦 Blue"
   },
   "a004": {
-    "id": "a030",
+    "id": "a004",
     "isToken": false,
     "face": {
       "front": {
@@ -488,6 +488,23 @@
       }
     },
     "name": "Saburo Arasaka - Stubborn Patriarch",
+    "type": "Legend",
+    "cost": 0,
+    "RAM Color": "🟩 Green"
+  },
+  "a030": {
+    "id": "a030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goro Takemura - Hands Unclean",
+        "type": "Legend",
+        "cost": 0,
+        "image": "https://i.postimg.cc/51RPvD1G/a030.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goro Takemura - Hands Unclean",
     "type": "Legend",
     "cost": 0,
     "RAM Color": "🟩 Green"
