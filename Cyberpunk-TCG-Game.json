@@ -9,7 +9,7 @@
     ],
     "decksUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Decks.json"
   },
-  "customHelp": "This project is not affiliated with Cyberpunk TCG, WeirdCo or CD Projekt Red.",
+  "customHelp": "(1) Legends are already shuffled at the start of a game.\n(2) Resources will be auto paid if you put a card on the Field or on the Stack (right zone, above the chat). If you want to pay your resources manually, you can deactivate the autopay feature on the Preferences button on the left menu.\n(3) When you put a card on your Eddies zone, you should reveal it to your opponent with 'Z + click' on the card. Hide it with the same hotkey.\n(4) To roll a Gig, use the 'Roll a dice' button on the left menu, then you can enter the number on the fields over each dice. Right are friendly Gigs, left are Rival Gigs.\n(5) You can peek a hidden card with context menu 'Visible by' -> 'Only You' and then hide it to 'All'.\n(6) While you hold 'G', you can click on a Gear and the on a Unit to attach it. You can use contex menu also.\n(7) You can quickly discard cards with 'D + click'\n(8) Use 'Ctrl + C + click' or 'C + click' to add counters to cards and manage their Power.\n(9) You can play with yourself by opening another tab and use your own code to connect with yourself.\n\nThis project is not affiliated with Cyberpunk TCG, WeirdCo or CD Projekt Red.",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Cards.json",
