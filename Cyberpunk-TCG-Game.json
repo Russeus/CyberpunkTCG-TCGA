@@ -215,73 +215,73 @@
             "title": "Dice_4_yours",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_6_yours": {
             "title": "Dice_6_yours",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_8_yours": {
             "title": "Dice_8_yours",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_10_yours": {
             "title": "Dice_10_yours",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_12_yours": {
             "title": "Dice_12_yours",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_20_yours": {
             "title": "Dice_20_yours",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_4_opp": {
             "title": "Dice_4_opp",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_6_opp": {
             "title": "Dice_6_opp",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_8_opp": {
             "title": "Dice_8_opp",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_10_opp": {
             "title": "Dice_10_opp",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_12_opp": {
             "title": "Dice_12_opp",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           },
           "Dice_20_opp": {
             "title": "Dice_20_opp",
             "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "height": "3",
+            "height": "3"
           }
         }
       }
