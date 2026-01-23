@@ -77,12 +77,16 @@
           "content": [
             {
               "direction": "row",
+              "style": {
+                "justifyContent": "center",
+                "gap": "1vh"
+              },
               "content": [
                 {
                   "direction": "row",
                   "isSymetricalForOpponents": true,
                   "style": {
-                    "width": "40vh",
+                    "width": "35vh",
                     "--input-text-color": "#d83938",
                     "marginTop": "-1.25vh",
                     "backdropFilter": "blur(20px)",
@@ -133,7 +137,7 @@
                   "direction": "row",
                   "isSymetricalForOpponents": true,
                   "style": {
-                    "width": "40vh",
+                    "width": "35vh",
                     "--input-text-color": "#64bfe3",
                     "marginTop": "-1.25vh",
                     "backdropFilter": "blur(20px)",
@@ -193,8 +197,18 @@
         "categoriesAlreadyOnBoard": [
           "Legend->Mana"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Program": "Stack",
+          "Gear": "Stack",
+          "Legend": "Field",
+          "Unit": "Field"
+        },
+        "autoPlayFromStack": {
+          "Program": "Discard",
+          "Gear": "GROUP",
+          "Legend": "Field",
+          "Unit": "Field"
+        },
         "sectionsDict": {
           "Field": {
             "title": "Field",
@@ -213,7 +227,8 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Eddies",
-            "startsShuffled": true
+            "startsShuffled": true,
+            "showHiddenCardInHistory": true
           },
           "Dice_4_yours": {
             "title": "Dice_4_yours",
