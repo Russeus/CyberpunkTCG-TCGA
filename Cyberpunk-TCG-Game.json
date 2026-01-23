@@ -1,18 +1,18 @@
 {
   "name": "Cyberpunk TCG",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://cdn.imgchest.com/files/6770d283485d.jpg",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Decks.json"
   },
-  "customHelp": "",
+  "customHelp": "This project is not affiliated with Cyberpunk TCG, WeirdCo or CD Projekt Red.",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Cards.json",
     "cardBack": "https://i.postimg.cc/NMZyFHJM/CPTCG-card-Back.png",
     "extraCardBacks": {
-        "Legend": "https://i.postimg.cc/7ZPQmG94/CPTCG-Card-Back-Legend.png"
-      }
+      "Legend": "https://i.postimg.cc/7ZPQmG94/CPTCG-Card-Back-Legend.png"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
@@ -53,10 +53,19 @@
       "sections": {
         "customSections": [
           "Field",
-          "Legend",
-          "Eddies",
-          "Gigs_1",
-          "Gigs_2"
+          "Mana",
+          "Dice_4_yours",
+          "Dice_6_yours",
+          "Dice_8_yours",
+          "Dice_10_yours",
+          "Dice_12_yours",
+          "Dice_20_yours",
+          "Dice_4_opp",
+          "Dice_6_opp",
+          "Dice_8_opp",
+          "Dice_10_opp",
+          "Dice_12_opp",
+          "Dice_20_opp"
         ],
         "layout": {
           "direction": "column",
@@ -64,57 +73,121 @@
           "content": [
             {
               "direction": "row",
-              "style": false,
               "content": [
                 {
-                  "section": "Gigs_1",
-                  "width": "10%",
+                  "direction": "row",
+                  "isSymetricalForOpponents": true,
                   "style": {
-                    "width": "25%"
-                  }
+                    "width": "40vh",
+                    "--input-text-color": "#d83938",
+                    "marginTop": "-1.25vh",
+                    "backdropFilter": "blur(20px)",
+                    "backgroundColor": "#202020c9",
+                    "borderRadius": "1vh",
+                    "padding": "0.5vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Dice_4_opp",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/88b01d4939f2.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_6_opp",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/a6a30b73eae1.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_8_opp",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/be279fbc76d6.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_10_opp",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/4b2d72c1e7c1.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_12_opp",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/3585f5a54d52.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_20_opp",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/5ec533c6ad73.png) no-repeat center / contain"
+                      }
+                    }
+                  ]
                 },
                 {
-                  "section": "Field",
-                  "width": "80%",
+                  "direction": "row",
+                  "isSymetricalForOpponents": true,
                   "style": {
-                    "width": "50%"
-                  }
-                },
-                {
-                  "section": "Gigs_2",
-                  "width": "10%",
-                  "style": {
-                    "width": "25%"
-                  }
+                    "width": "40vh",
+                    "--input-text-color": "#64bfe3",
+                    "marginTop": "-1.25vh",
+                    "backdropFilter": "blur(20px)",
+                    "backgroundColor": "#202020c9",
+                    "borderRadius": "1vh",
+                    "padding": "0.5vh"
+                  },
+                  "content": [
+                    {
+                      "section": "Dice_4_yours",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/38b54cc688a2.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_6_yours",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/9dd397388c22.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_8_yours",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/db9f346119f9.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_10_yours",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/62f187efd590.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_12_yours",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/64bb934dd981.png) no-repeat center / contain"
+                      }
+                    },
+                    {
+                      "section": "Dice_20_yours",
+                      "style": {
+                        "background": "url(https://cdn.imgchest.com/files/800e184ef0f1.png) no-repeat center / contain"
+                      }
+                    }
+                  ]
                 }
-              ],
-              "isSymetricalForOpponents": false
+              ]
             },
             {
-              "direction": "row",
-              "style": false,
-              "content": [
-                {
-                  "section": "Legend",
-                  "width": "25%",
-                  "style": {
-                    "width": "25%"
-                  }
-                },
-                {
-                  "section": "Eddies",
-                  "width": "75%",
-                  "style": {
-                    "width": "75%"
-                  }
-                }
-              ],
-              "isSymetricalForOpponents": false
+              "section": "Field"
+            },
+            {
+              "section": "Mana"
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Legend"
+          "Legend->Mana"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -124,83 +197,91 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
             "reverseZOrder": true
           },
-          "Legend": {
-            "title": "Legend",
-            "isHidden": "yes",
-            "height": "SMALL",
-            "alignment": "END",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Legends",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Eddies": {
-            "title": "Eddies",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "START",
-            "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "displayedTitle": "Eddies",
+            "startsShuffled": true
           },
-          "Gigs_1": {
-            "title": "Gigs_1",
-            "isHidden": "no",
-            "height": "SMALL",
+          "Dice_4_yours": {
+            "title": "Dice_4_yours",
+            "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Rival Gigs",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "reverseZOrder": true
+            "height": "3",
           },
-          "Gigs_2": {
-            "title": "Gigs_2",
-            "isHidden": "no",
-            "height": "SMALL",
+          "Dice_6_yours": {
+            "title": "Dice_6_yours",
+            "type": "INPUT_NUMBER",
             "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Friendly Gigs",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false,
-            "reverseZOrder": true
+            "height": "3",
+          },
+          "Dice_8_yours": {
+            "title": "Dice_8_yours",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_10_yours": {
+            "title": "Dice_10_yours",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_12_yours": {
+            "title": "Dice_12_yours",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_20_yours": {
+            "title": "Dice_20_yours",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_4_opp": {
+            "title": "Dice_4_opp",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_6_opp": {
+            "title": "Dice_6_opp",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_8_opp": {
+            "title": "Dice_8_opp",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_10_opp": {
+            "title": "Dice_10_opp",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_12_opp": {
+            "title": "Dice_12_opp",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
+          },
+          "Dice_20_opp": {
+            "title": "Dice_20_opp",
+            "type": "INPUT_NUMBER",
+            "alignment": "CENTER",
+            "height": "3",
           }
         }
       }
