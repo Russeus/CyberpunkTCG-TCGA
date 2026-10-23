@@ -39,7 +39,7 @@ const CONFIG = {
 
     // URL GitHub Pages du repo. Dans la GitHub Action elle est déduite du nom du repo ;
     // en local, c'est cette valeur qui sert (ou la variable d'environnement PAGES_BASE_URL).
-    fallbackPagesUrl: 'https://valcur.github.io/TCG-Arena-Cyberpunk',
+    fallbackPagesUrl: 'https://russeus.github.io/CyberpunkTCG-TCGA',
 
     language: 'en',
     pageSize: 60,
